@@ -1,1 +1,0 @@
-Serves as Ad Provider
